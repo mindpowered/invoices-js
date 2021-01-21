@@ -1,0 +1,10 @@
+{
+    "license": "CPAL-1.0",
+    "name": "@mindpowered/invoices",
+    "version": "0.0.1",
+    "description": "Logic for creating and editing invoices",
+    "main": "index.js",
+    "dependencies": {
+        "@mindpowered/maglev": "*"
+    }
+}
