@@ -9,19 +9,16 @@ Contents
 ========
 
 * [Source Code and Documentation](#source-code-and-documentation)
-* [Licensing](#licensing)
 * [About](#about)
 * [Requirements](#requirements)
 * [Installation](#installation)
 * [Usage](#usage)
 * [Support](#support)
+* [Licensing](#licensing)
 
 # Source Code and Documentation
 - Source Code: [https://github.com/mindpowered/invoices-js](https://github.com/mindpowered/invoices-js)
 - Documentation: [https://mindpowered.github.io/invoices-js](https://mindpowered.github.io/invoices-js)
-
-# Licensing
-To obtain a version of this package under the MIT License, follow the instructions to [get a license][purchase]. The MIT License has no restrictions on commercial use and permits reuse within proprietary software.
 
 # About
 An invoice lists the quantities and costs of the products or services provided by a seller to a buyer. The top of the invoice usually includes the:
@@ -78,10 +75,13 @@ We are here to support using this package. If it doesn't do what you're looking 
 
 There is also a public [Issue Tracker][bugs] available for this package.
 
+# Licensing
+This package is released under the MIT License.
+
 
 
 [bugs]: https://github.com/mindpowered/invoices-js/issues
-[contact]: https://mindpowered.dev/support.html?ref=invoices-js/
+[contact]: https://mindpowered.dev/support/?ref=invoices-js/
 [docs]: https://mindpowered.github.io/invoices-js/
 [licensing]: https://mindpowered.dev/?ref=invoices-js
 [purchase]: https://mindpowered.dev/purchase/

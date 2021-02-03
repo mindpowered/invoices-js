@@ -1,7 +1,7 @@
 {
-    "license": "CPAL-1.0",
+    "license": "MIT",
     "name": "@mindpowered/invoices",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "description": "Create, edit, and track invoices as part of your app",
     "main": "index.js",
     "dependencies": {
